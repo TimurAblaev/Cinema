@@ -152,7 +152,7 @@
 .navbar__nav--btn{
   width: 40px;
   height: 40px;
-/*   border: 3px solid #ED8E00; */
+  border: 3px solid #ED8E00;
   background: transparent;
   cursor: pointer;
   display: none;
@@ -338,7 +338,7 @@
 .premier{
   width: 100%;
   min-height: 500px;
-  border: 2px solid red;
+/*   border: 2px solid red; */
   position: relative;
 }
 .premier__video{
