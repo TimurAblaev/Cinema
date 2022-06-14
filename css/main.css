@@ -338,6 +338,10 @@
 .premier{
   width: 100%;
   min-height: 500px;
+<<<<<<< HEAD
+=======
+/*   border: 2px solid red; */
+>>>>>>> b66bf6825576f16341df748b752fc033427d7a5b
   position: relative;
 }
 .premier__video{
