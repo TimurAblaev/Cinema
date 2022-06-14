@@ -338,7 +338,6 @@
 .premier{
   width: 100%;
   min-height: 500px;
-  border: 2px solid red;
   position: relative;
 }
 .premier__video{
